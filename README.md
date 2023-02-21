@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning Django Rest Framework, React JS and API design.
 - 👯 I’m looking to collaborate on Django and React.
 - 🤔 I’m looking for help with React.
-- 💬 Ask me about - "What is the purpose of life !"
+- 💬 Ask me about - "Technology, Philosophy, and Life !"
 - 📫 How to reach me: kk.engineer@gmail.com
 - 😄 Pronouns: KK
-- ⚡ Fun fact: I can change your perception of life and reality.
+- ⚡ Fun fact: I can influence your perception of life and reality.
 
 <!--
 **BharatiyaKaran/bharatiyakaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
