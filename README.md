@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on how to build web applications.
+- 🔭 I have 15+ years of experience in software products design and development using Python/C++.
 - 🌱 I’m currently learning Django Rest Framework, React JS and API design.
 - 👯 I’m looking to collaborate on Django and React.
 - 🤔 I’m looking for help with React.
